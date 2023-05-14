@@ -4,7 +4,7 @@
 ## Installation
 
 ```
-git clone sqlilab
+git clone https://github.com/tkusa/sqlilab.git
 ```
 
 ```
